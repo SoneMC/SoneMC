@@ -1,14 +1,14 @@
-# SoneMC Plugins
+# 🛠️ SoneMC Plugins
 
 Run by single person for multiple people.
 
 
-## Projects
+## 📦 Projects
 
 [SoneRPG](https://github.com/SoneMC/SoneRPG)
 
 
-## Licenses
+## 📄 Licenses & Terms
 
 [Terms Of Use](https://sonemcpl.pages.dev/raw/#tou)<br>
 [PCA](https://sonemcpl.pages.dev/raw/#pca)<br>
