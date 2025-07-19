@@ -4,9 +4,9 @@ Run by single person for multiple people.
 
 ---
 
-## Main Project: [SoneRPG](https://github.com/SoneMC/SoneRPG)
+## Projects
 
-A full-featured **RPG plugin**. Early development but its still fire.
+[SoneRPG](https://github.com/SoneMC/SoneRPG)
 
 ---
 
