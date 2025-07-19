@@ -2,13 +2,11 @@
 
 Run by single person for multiple people.
 
----
 
 ## Projects
 
 [SoneRPG](https://github.com/SoneMC/SoneRPG)
 
----
 
 ## Licenses
 
@@ -16,6 +14,5 @@ Run by single person for multiple people.
 [PCA](https://sonemcpl.pages.dev/raw/#pca)
 [Disclaimer](https://sonemcpl.pages.dev/raw/#disclaimer)
 
----
 
 © 2025 • [SMCPAA](https://sonemcpl.pages.dev/raw/#disclaimer) • Made with ❤️ by [SoneMC](https://sonemcpl.pages.dev)
